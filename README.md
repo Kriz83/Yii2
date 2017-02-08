@@ -1,5 +1,11 @@
-Yii 2 Basic Project Template
+Yii 2 PDF project
 ============================
+
+This Yii 2 project can be used to import an .xls file, show it on screen in a table form with
+option to edit fields and multiply somo of the fields by number of parties.
+
+The table can be exported to pdf file.
+
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
