@@ -1,4 +1,4 @@
-Yii 2 Basic Project Template
+Yii 2 PDF project
 ============================
 
 This Yii 2 project can be used to import an .xls file, show it on screen in a table form with
