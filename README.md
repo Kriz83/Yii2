@@ -1,7 +1,7 @@
 Yii 2 PDF project
 ============================
 
-This Yii 2 project can be used to import an .xls file, show it on screen in a table form with
+This Yii 2 project can be used to import an .xls file, like this in web/upload directory, show it on screen in a table form with
 option to edit fields and multiply somo of the fields by number of parties.
 
 The table can be exported to pdf file.
